@@ -1,0 +1,3 @@
+A number is an arithmetic value used for representing the quantity and used in making calculations. 
+A written symbol like “3” which represents a number is known as numerals. 
+A number system is a writing system for denoting numbers using digits or symbols in a logical manner.
